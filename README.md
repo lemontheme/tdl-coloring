@@ -7,3 +7,14 @@ Atom package that adds simple support for TDL (Type Description Language) syntax
 <img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/dark_tdl.png">
 <img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/light_tdl.png">
 </div>
+
+<table>
+<tr>
+  <td>
+  <img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/dark_tdl.png">
+  </td>
+  <td>
+  <img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/light_tdl.png">
+  </td>
+</tr>
+</table>
