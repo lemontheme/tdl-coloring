@@ -4,11 +4,11 @@ Atom package that adds simple support for TDL (Type Description Language) syntax
 
 
 <div style="padding: 50px; margin-left: auto; margin-right: auto;">
-<img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/dark_tdl.png">
-<img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/light_tdl.png">
+<img width="400" height="400" hspace="20px" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/dark_tdl.png">
+<img width="400" height="400" hspace="20px" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/light_tdl.png">
 </div>
 
-<table>
+<!--<table>
 <tr>
   <td>
   <img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/dark_tdl.png">
@@ -17,4 +17,4 @@ Atom package that adds simple support for TDL (Type Description Language) syntax
   <img width="400" height="400" src="https://github.com/lemontheme/tdl-coloring/blob/master/screenshots/light_tdl.png">
   </td>
 </tr>
-</table>
+</table>-->
