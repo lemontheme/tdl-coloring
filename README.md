@@ -1,5 +1,5 @@
 # TDL-coloring (package)
-Atom package that adds simple support for TDL (Type Description Language) syntax, used for defining constraint-based grammars (Krieger & Schäfer 1994). Works reasonably well, provided that the conventions described in Copestake 2002 are followed.
+Atom package that adds simple support for TDL (Type Description Language) syntax, used for defining constraint-based grammars (Krieger & SchaÌˆfer 1994). Works reasonably well, provided that the conventions described in Copestake 2002 are followed.
 
 dark                                                                                          | light
 :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------
