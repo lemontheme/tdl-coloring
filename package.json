@@ -1,22 +1,21 @@
 {
   "name": "tdl-coloring",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Provides basic syntax highlighting of subset of TDL (Type Description Language) used by the LKB",
   "keywords": [
-      "grammar",
-      "tdl"
+    "grammar",
+    "tdl"
   ],
   "activationCommands": {
     "atom-workspace": "tdl-coloring:toggle"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/lemontheme/tdl-coloring.git"
-      },
+    "type": "git",
+    "url": "https://github.com/lemontheme/tdl-coloring.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
