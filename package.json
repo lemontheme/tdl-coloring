@@ -9,7 +9,10 @@
   "activationCommands": {
     "atom-workspace": "tdl-coloring:toggle"
   },
-  "repository": "https://github.com/atom/tdl-coloring",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/lemontheme/tdl-coloring.git"
+      },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
