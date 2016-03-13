@@ -1,0 +1,43 @@
+'scopeName': 'text.tdl'
+'name': 'TDL'
+'fileTypes': [
+    'tdl'
+]
+'patterns': [
+    {
+        # identifier
+        'match': '[\\w\\*\\+-]+(?= (:=|:\\+))'
+        'name': 'constant.numeric.tdl' #storage.type.var
+    }
+    # {
+    #     #types
+    #     'match': '(?<!^)[a-z0-9_]+-?[a-z0-9_]+'
+    #     'name': 'constant.numeric.tdl'
+    # }
+    {
+        # FEATURES
+        'match': '(?<![A-Z0-9])\\b[A-Z0-9-\.]+\\b'
+        'name': 'entity.name.function.tdl' #support.function
+    }
+    {
+        # inheritance-operator (:=) and conjunction-operator (&)
+        'match': '(:=|&|:<|:\\+|:<|<>)'
+        'name': 'keyword.control.tdl'
+    }
+    {
+        # strings
+        'match': '["\'](\\w|-)+"?'
+        'name': 'string.quoted.tdl'
+    }
+    {
+        # co-indexation tags
+        'match': '#(\\w|-)+'
+        'name': 'support.variable.tdl'
+    }
+    {
+        # comment lines
+        'begin': ';+'
+        'end': '\\n'
+        'name': 'comment.line.tdl'
+    }
+]
