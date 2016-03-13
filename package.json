@@ -1,7 +1,7 @@
 {
   "name": "tdl-coloring",
   "version": "0.1.0",
-  "description": "Provides basic syntax highlighting of subset of TDL (Type Description Language) used by the LKB",
+  "description": "Adds simple support for TDL (Type Description Language) syntax as described in Copestake 2002",
   "keywords": [
     "grammar",
     "tdl"
