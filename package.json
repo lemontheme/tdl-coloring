@@ -1,6 +1,6 @@
 {
   "name": "tdl-coloring",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Adds simple support for TDL (Type Description Language) syntax as described in Copestake 2002",
   "keywords": [
     "grammar",
