@@ -2,11 +2,12 @@
 'name': 'TDL'
 'fileTypes': [
     'tdl'
+    'mtr'
 ]
 'patterns': [
     {
         # identifier
-        'match': '[\\w\\*\\+-]+(?= (:=|:\\+))'
+        'match': '[\\w\\*\\+-]+\\s*(?= (:=|:\\+))'
         'name': 'constant.numeric.tdl' #storage.type.var
     }
     # {
@@ -26,7 +27,7 @@
     }
     {
         # strings
-        'match': '["\'](\\w|-)+"?'
+        'match': '["\'](\\w|[-\.~/])+"?'
         'name': 'string.quoted.tdl'
     }
     {
