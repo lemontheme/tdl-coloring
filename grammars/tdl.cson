@@ -25,6 +25,13 @@
         'match': '(:=|&|:<|:\\+|:<|<>)'
         'name': 'keyword.control.tdl'
     }
+
+    {
+        # commas and periods
+        'match': '[,\.]'
+        'name': 'keyword.other.tdl'
+    }
+
     {
         # strings
         'match': '["\'](\\w|[-\.~/\+:])+"?'
