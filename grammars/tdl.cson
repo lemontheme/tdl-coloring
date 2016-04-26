@@ -17,7 +17,7 @@
     # }
     {
         # FEATURES
-        'match': '(?<![A-Z0-9])\\s[A-Z0-9\\-\.]+\\s'
+        'match': '(?<![A-Z0-9])\\s[A-Z0-9]+[A-Z0-9\\-\.]*\\s'
         'name': 'entity.name.function.tdl' #support.function
     }
     {
@@ -28,13 +28,13 @@
 
     {
         # commas and periods
-        'match': '[,\.]'
+        'match': '\\s*[,\.]'
         'name': 'keyword.other.tdl'
     }
 
     {
         # strings
-        'match': '["\'](\\w|[-\.~/\+:])+"?'
+        'match': '"(\\w|[-\.~/\+:])+"'
         'name': 'string.quoted.tdl'
     }
     {
