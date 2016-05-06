@@ -1,4 +1,4 @@
-# TDL-coloring (package)
+# TDL-coloring ( ⚛ package)
 Atom package that adds basic support for TDL (Type Description Language) syntax. This means accurate syntax highlighting/font locking when editing DELPH-IN-style `.tdl` and `.mtr` files, provided the conventions described in *Implementing Typed Feature Structures* (Copestake 2002) are followed. 
 
 ### Note to users
