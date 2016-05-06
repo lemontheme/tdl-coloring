@@ -5,7 +5,7 @@ Atom package that adds basic support for TDL (Type Description Language) syntax.
 
 This package was thrown together in an afternoon and has been refined (lazily, and to the best of my ability) based on my own needs while working within a LinGO Matrix-based framework. Should you encounter unexpected or annoying behaviour, yet feel reluctant to switch to Emacs just for the sake of *tdl-mode.el* (packaged with the LKB), feel free to leave a suggestion. Other contributions are welcome, too! :) 
 
-### Important: `[ <-- space --> FEATURE`
+### The `[ <-- space --> FEATURE` gotcha 
 
 In order for the regex parser to work properly, opening square brackets are required to be seperated from enclosed feature names by one or more spaces. This may be changed in a future update, but there's no ignoring that it does have the happy side-effect of making grammar descriptions easier to read. 
 
