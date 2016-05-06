@@ -7,7 +7,7 @@ This package was thrown together in an afternoon and has been refined (lazily, a
 
 ### The `[ <-- space --> FEATURE` gotcha 
 
-In order for the regex parser to work properly, opening square brackets are required to be seperated from enclosed feature names by one or more spaces. This may be changed in a future update, but there's no ignoring that it does have the happy side-effect of making grammar descriptions easier to read. 
+In order for the regex parser to work properly, opening square brackets are required to be seperated from enclosed feature names by one or more spaces. This may be changed in a future update, although there's no ignoring that it does have the happy side-effect of making grammar descriptions easier to read. 
 
 ### Screenshots
 
