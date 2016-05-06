@@ -1,5 +1,5 @@
 # TDL-coloring (package)
-Atom package that adds simple support for TDL (Type Description Language) syntax, used for defining constraint-based grammars (Krieger & Schäfer 1994). Syntax highlighting works reasonably well, provided the conventions described in *Implementing Typed Feature Structures* (Copestake 2002) are followed.
+Atom package that adds basic support for TDL (Type Description Language) syntax. Currently, this means relatively accurate syntax highlighting/font locking when editing DELPH-IN-stye .tdl and .mtr files, provided these follow the conventions described in *Implementing Typed Feature Structures* (Copestake 2002). 
 
 dark                                                                                          | light
 :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------
