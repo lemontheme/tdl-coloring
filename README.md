@@ -3,7 +3,7 @@ Atom package that adds basic support for TDL (Type Description Language) syntax.
 
 ### Note to users
 
-This package was thrown together in an afternoon and has been refined (lazily, and to the best of my ability) based on my own needs while working within a predominantly LinGO Matrix-based framework. Should you encounter unexpected or annoying behaviour, yet feel reluctant to switch to Emacs just for the sake of *tdl-mode.el* (packaged with the LKB), feel free to leave a suggestion anywhere on this repository. Of course, other contributions are welcome, too! :) 
+This package was thrown together in an afternoon and has been refined (lazily, and to the best of my ability) based on my own needs while working within a predominantly LinGO Matrix-based framework. Should you encounter unexpected or annoying behaviour, yet wish to eschew Emacs (in spite of the all-powerful *tdl-mode.el* that ships with standard LKB installations), feel free to leave a suggestion anywhere on this repository. Other contributions are of course welcome, too! :) 
 
 ### The `[ <-- space --> FEATURE` gotcha 
 
