@@ -11,7 +11,7 @@ In order for the regex parser to work properly, opening square brackets are requ
 
 ### Screenshots
 
-NB: Frustratingly easy to forget, commas and periods are now highlighted as well. 
+*NB*: Frustratingly easy to forget, commas and periods are now highlighted as well. 
 
 dark                                                                                          | light
 :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------
